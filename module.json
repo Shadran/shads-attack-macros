@@ -1,0 +1,20 @@
+{
+  "id": "shads-attack-macros",
+  "title": "Shad's Attack Macros",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Shadran",
+      "email": "some.shadran@gmail.com",
+      "discord": "shadran",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+      "scripts/attack-module.js"
+  ]
+}
